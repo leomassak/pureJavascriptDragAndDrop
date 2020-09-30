@@ -1,2 +1,2 @@
 # pureJavascriptDragAndDrop
-Drag and Drop application made with HTML, CSS ans Javascript
+Drag and Drop application made with HTML, CSS and Javascript
